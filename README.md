@@ -1,4 +1,5 @@
 # Organizer
 Organizing files and folders for Portfolio
 
-##More details
+##SubHeader
+Sub headers are set with a double hash whilst the header are set with single hash
